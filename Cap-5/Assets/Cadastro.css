@@ -1,0 +1,32 @@
+.navbar-center{
+    background: black;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+.footer-flex{
+    background: black;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.footer-ul{
+    background-color: black;
+    display: flex;
+    margin-bottom: 25px;
+}
+.div-labels{
+    display: flex;
+    justify-content: center;
+}
+.labels{
+    width: 500px;
+    padding-bottom: 25px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color: #BB9700;
+    padding-top: 25px;
+}
